@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Jatin Gupta  
 
-<!--
-**jatin-gupta-mern/jatin-gupta-mern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer | WordPress Developer | IT Support Specialist  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- 🔭 I’m currently working on Web Development projects  
+- 🌱 Learning and improving my MERN Stack skills  
+- 💼 Open to entry-level opportunities  
+- 🤝 Interested in Web Development & IT Support roles  
+
+---
+
+## 🛠️ Skills
+- 💻 MERN Stack (MongoDB, Express.js, React.js, Node.js)  
+- 🌐 HTML, CSS, JavaScript  
+- ⚙️ REST APIs, JWT Authentication  
+- 🧩 WordPress Development  
+- 🛠️ IT Support & Troubleshooting  
+
+---
+
+## 🚀 Projects
+### 📝 Task Manager App (MERN Stack)
+- Built a full-stack application with CRUD operations  
+- Used MongoDB, Express, React, Node.js  
+
+### 🌐 Portfolio Website (WordPress)
+- Designed responsive website using Astra theme  
+- Created Home, About, Contact pages  
+
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/jatin-gupta-mern  
+- 📧 Email: jating673@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+I enjoy building websites and solving real-world problems through code 🚀

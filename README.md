@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Jatin Gupta  
 
-🚀 MERN Stack Developer | WordPress Developer | IT Support Specialist  
+🚀 MERN Stack Developer | WordPress Developer | IT Support  
 
 ---
 
 ## 💡 About Me
-- 🔭 I’m currently working on Web Development projects  
-- 🌱 Learning and improving my MERN Stack skills  
-- 💼 Open to entry-level opportunities  
-- 🤝 Interested in Web Development & IT Support roles  
+- 💻 I build web applications using MERN Stack  
+- 🛠️ Interested in Technical Support & IT roles  
+- 📚 Currently improving my skills in React & Node.js  
+- 🎯 Open to Work (Fresher Opportunities)  
 
 ---
 
 ## 🛠️ Skills
 - 💻 MERN Stack (MongoDB, Express.js, React.js, Node.js)  
 - 🌐 HTML, CSS, JavaScript  
-- ⚙️ REST APIs, JWT Authentication  
+- ⚙️ REST APIs & Basic Backend Development  
 - 🧩 WordPress Development  
 - 🛠️ IT Support & Troubleshooting  
 
@@ -23,12 +23,11 @@
 
 ## 🚀 Projects
 ### 📝 Task Manager App (MERN Stack)
-- Built a full-stack application with CRUD operations  
-- Used MongoDB, Express, React, Node.js  
+- Full-stack application with CRUD operations  
+- REST API integration  
 
 ### 🌐 Portfolio Website (WordPress)
-- Designed responsive website using Astra theme  
-- Created Home, About, Contact pages  
+- Responsive website with Home, About, Contact pages  
 
 ---
 
@@ -38,5 +37,5 @@
 
 ---
 
-## ⚡ Fun Fact
-I enjoy building websites and solving real-world problems through code 🚀
+## ⚡ Goal
+To become a skilled Full Stack Developer and grow in the IT industry 🚀
